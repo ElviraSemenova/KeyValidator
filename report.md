@@ -7,8 +7,8 @@
 На тестирование затрачено: 0,1666666..7 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/ShalopaykaQA/KeyValidator/issues/1
-* https://github.com/ShalopaykaQA/KeyValidator/issues/2
+* [Невалидные ключи среди валидных в программе KeyValidator](https://github.com/ShalopaykaQA/KeyValidator/issues/1)
+* [Bалидные ключи среди невалидных в программе KeyValidator](https://github.com/ShalopaykaQA/KeyValidator/issues/2)
 
 ## Описание процесса тестирования
 
